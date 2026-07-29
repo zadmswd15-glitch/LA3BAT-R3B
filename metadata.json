@@ -1,0 +1,6 @@
+{
+  "name": "Hollow House 3D Horror",
+  "description": "3D Multiplayer Horror Web Application using Three.js and PeerJS WebRTC",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
